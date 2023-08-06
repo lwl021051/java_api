@@ -7,3 +7,7 @@ In application.properties(java_api\src\main\resources),
 change database login username and password.
 
 api url is http://127.0.0.1:8080/api/v1/student
+
+build .jar file(Maven lifecycle/install)
+cd /target
+java -jar demo-0.0.1-SNAPSHOT.jar
